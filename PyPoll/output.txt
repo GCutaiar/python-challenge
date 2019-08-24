@@ -1,0 +1,7 @@
+Elections Results
+Candidate: Khan, Percent of Votes: 63.0%, (Votes: 2218231)
+Candidate: Correy, Percent of Votes: 20.0%, (Votes: 704200)
+Candidate: Li, Percent of Votes: 14.0%, (Votes: 492940)
+Candidate: O'Tooley, Percent of Votes: 3.0%, (Votes: 105630)
+Total Votes: 3521001
+Winner: Khan!
